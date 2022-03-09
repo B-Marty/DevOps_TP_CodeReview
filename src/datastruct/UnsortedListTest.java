@@ -157,7 +157,7 @@ class UnsortedListTest {
 	@Test
 	void remove_tail() {
 		remove_empty_test(l2, 5,4,3,2,1,0);
-	}
+	} f
 	
 	@Test
 	void remove_spread1() {
